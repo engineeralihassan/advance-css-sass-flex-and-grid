@@ -1,1 +1,2 @@
 This is the file for the metadata about this course and notes for my self
+## This is the testing commit for check the repo is connected with correct path and repo 

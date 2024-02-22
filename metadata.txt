@@ -15,3 +15,20 @@ second number of the translate code generstor
 transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);
 -webkit-transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);
 -moz-transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);
+
+
+
+gradient border genrators
+om/tools/border-gradient-generator
+
+
+background: radial-gradient(circle at 100% 100%, #ffffff 0, #ffffff 12px, transparent 12px) 0% 0%/15px 15px no-repeat,
+            radial-gradient(circle at 0 100%, #ffffff 0, #ffffff 12px, transparent 12px) 100% 0%/15px 15px no-repeat,
+            radial-gradient(circle at 100% 0, #ffffff 0, #ffffff 12px, transparent 12px) 0% 100%/15px 15px no-repeat,
+            radial-gradient(circle at 0 0, #ffffff 0, #ffffff 12px, transparent 12px) 100% 100%/15px 15px no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 6px) calc(100% - 30px) no-repeat,
+            linear-gradient(#ffffff, #ffffff) 50% 50%/calc(100% - 30px) calc(100% - 6px) no-repeat,
+            linear-gradient(0deg, transparent 0%, #000000 100%);
+border-radius: 15px;
+padding: 17px;
+box-sizing: content-box;

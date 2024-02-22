@@ -1,2 +1,13 @@
 This is the file for the metadata about this course and notes for my self
 ## This is the testing commit for check the repo is connected with correct path and repo 
+https://www.toptal.com/developers/css3maker/css3-transform
+.element {
+  background: linear-gradient(
+    45deg,
+    rgba(15, 37, 110, 1) 25%,
+    rgba(0, 0, 0, 1) 61%,
+    rgba(32, 178, 7, 1) 100%
+  );
+  background-blend-mode: normal;
+  transform: rotate(90deg) translate(-20px, -17px) scale(1.3, 1.5);
+}

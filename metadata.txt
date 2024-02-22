@@ -32,3 +32,15 @@ background: radial-gradient(circle at 100% 100%, #ffffff 0, #ffffff 12px, transp
 border-radius: 15px;
 padding: 17px;
 box-sizing: content-box;
+
+
+
+https://codepen.io/amit_sheen/pen/LYNKerG
+
+
+.button-with-gradient-border {
+background-image: radial-gradient(circle at 100% 100%, transparent 29px, #d60088 29px, #d60088 32px, transparent 32px), linear-gradient(to right, #d60088, #f12eff), radial-gradient(circle at 0% 100%, transparent 29px, #f12eff 29px, #f12eff 32px, transparent 32px), linear-gradient(to bottom, #f12eff, #0e1110), radial-gradient(circle at 0% 0%, transparent 29px, #0e1110 29px, #0e1110 32px, transparent 32px), linear-gradient(to left, #0e1110, #11100d), radial-gradient(circle at 100% 0%, transparent 29px, #11100d 29px, #11100d 32px, transparent 32px), linear-gradient(to top, #11100d, #d60088);
+background-size: 32px 32px, calc(100% - 64px) 3px, 32px 32px, 3px calc(100% - 64px);
+background-position: top left,top center,top right,center right, bottom right,bottom center,bottom left,center left;
+background-repeat: no-repeat;
+}

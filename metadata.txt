@@ -44,3 +44,8 @@ background-size: 32px 32px, calc(100% - 64px) 3px, 32px 32px, 3px calc(100% - 64
 background-position: top left,top center,top right,center right, bottom right,bottom center,bottom left,center left;
 background-repeat: no-repeat;
 }
+
+
+code color genrartor for gradients 
+https://www.toptal.com/developers/css3maker/css3-gradient
+

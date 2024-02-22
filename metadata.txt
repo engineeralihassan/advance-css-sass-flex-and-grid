@@ -11,3 +11,7 @@ https://www.toptal.com/developers/css3maker/css3-transform
   background-blend-mode: normal;
   transform: rotate(90deg) translate(-20px, -17px) scale(1.3, 1.5);
 }
+second number of the translate code generstor 
+transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);
+-webkit-transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);
+-moz-transform: rotate(90deg) scale(1.1) skew(1deg) translate(-12px,0px);

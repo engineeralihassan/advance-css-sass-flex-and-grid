@@ -55,5 +55,6 @@ ______________________________** Verticle Slider example by GSap **_____________
 https://codepen.io/mikeK/pen/yLMrwrK
 https://gsap.com/community/forums/topic/28552-creating-vertical-carousel/
 https://codepen.io/GreenSock/details/RwKwLWK
+https://codepen.io/mikeK/pen/yLMrwrK
 
 
